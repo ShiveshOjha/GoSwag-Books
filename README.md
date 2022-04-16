@@ -1,6 +1,9 @@
 # GoSwag-Books
 Golang backend with Postgres DB
 
+# Docker Image
+docker pull shiveshojha/simple-books-golang
+
 # Prerequisites
 Install Go and add it to the PATH.
 
@@ -33,7 +36,7 @@ Install Go and add it to the PATH.
 
 ![DeleteBook SwaggerUI](https://user-images.githubusercontent.com/87301008/159539625-875df645-7fb5-424c-9d6c-503261f4cb42.png)
 
-# Docker Image
+# Docker Image Generation
 
 ![GoSwag-Books-docker](https://user-images.githubusercontent.com/87301008/163683132-3533e6c5-891f-48be-aea2-a1b2edeaff5f.png)
 
