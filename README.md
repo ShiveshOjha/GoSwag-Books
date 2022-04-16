@@ -2,7 +2,7 @@
 Golang backend with Postgres DB
 
 # Docker Image
-docker pull shiveshojha/simple-books-golang
+`docker pull shiveshojha/simple-books-golang`
 
 # Prerequisites
 Install Go and add it to the PATH.
